@@ -1,22 +1,19 @@
 ---
 layout: page
 title: Conferences
-permalink: /conferences/ 
+permalink: /conferences/
 ---
 
 ## Translation for Conferences
 
-[Still in construction and welcoming suggestions]
-
-
-This year, we are pleased to join efforts with the [DH2016 Krakow](http://dh2016.adho.org/) Program Committee to foster multilingual practices and support translation efforts on site during the conference.
+\[This year, we are pleased to join efforts with the [DH2016 Krakow](http://dh2016.adho.org/) Program Committee to foster multilingual practices and support translation efforts on site during the conference.]
 
 
 Due to the exercises that inspired this Toolkit, we will call all conference community translation *whispering.*
 
-**Whispering,** the community’s version of live translation, can take many forms according to the particular circumstance of a presentation and whether it is the talk that is being whispered to the audience, or it is the questions and comments from the audience that are being whispered to the speaker. 
+**Whispering,** the community’s version of live translation, can take many forms according to the particular circumstance of a presentation and whether it is the talk that is being whispered to the audience, or it is the questions and comments from the audience that are being whispered to the speaker.
 
-Ideally whispering should be previously agreed and coordinated at the beginning of a session but it can be done spontaneously if attendants wish to live tweet and share notes in a language different to the one used in a presentation. 
+Ideally whispering should be previously agreed and coordinated at the beginning of a session but it can be done spontaneously if attendants wish to live tweet and share notes in a language different to the one used in a presentation.
 In any case, we strongly recommend to make any whispering efforts known to maximize its impact. The particular whispering strategy (tools to be used, languages being translated, people involved) should, preferably, be agreed upon and announced at the beginning of a session or, at least, right before the presentation begins. Again, this will maximize the impact of the exercise and invite further participation.
 
 
@@ -30,15 +27,17 @@ In order to share information and coordinate efforts of on site community transl
 [Main conference hashtag] + [tr] + [session]
 [Main conference hashtag] + [[ISO codes](http://www.loc.gov/standards/iso639-2/php/English_list.php) of the languages being translated] + [session number]
 
-Examples:
----- #DH2015 #tr314
----- #DH2015 #FrEn314
+Examples (given a request to translate from French to English at session 314 of the DH2015 Conference):
+
+- \#DH2015 #tr314
+- \#DH2015 #FrEn314
 
 If translation efforts are taking place outside of twitter, descriptive links will also help interested volunteers keep track of the activities.
 
-Examples:
----- bit.ly/dh2015trs314
----- bit.ly/trFrEn314
+Examples (given a request to translate from French to English at session 314 of the DH2015 Conference):
+
+- bit.ly/dh2015tr314
+- bit.ly/trFrEn314
 
 
 **My talk is being whispered. How can I help?**
@@ -63,14 +62,14 @@ An important part of making translation and multilingual practices a community e
 **Note Taking Whispering.** Several note taking softwares can be used to whisper translated notes during a presentation.
 
 - [Evernote](https://evernote.com/) and [Simplenote](http://simplenote.com/). These note taking tools support sharing notes through public links or to selected contacts. This might be a way in which a particular group of people create more thorough translated notes and share them to others.
-- Wikis. Several DHers are known for their thorough note taking practices during conferences, which they share through wikis and personal sites. If you are one of them and are taking translated notes, let the session chair know so that others can follow you. A useful, simple one [Wiki on a Stick](http://stickwiki.sourceforge.net/)is a single page application.
+- Wikis. Several DHers are known for their thorough note taking practices during conferences, which they share through wikis and personal sites. If you are one of them and are taking translated notes, let the session chair know so that others can follow you. A useful, simple one [Wiki on a Stick](http://stickwiki.sourceforge.net/) is a single page application.
 - Google docs. The incredibly versatile google docs is not only extremely easy to share and get started, it is also especially good for collaborative note taking where in one single document several whisperers can add as the presentation progresses. Speakers are encouraged to facilitate filling in the gaps. 
 
-In all cases where translated notes are taken during a talk, we recommend creating short links such as bit.ly that can be shared at the beginning of the session to interested attendants, as well as with the conference back channel. 
-Ideally, short links can be crafted following a recognizable pattern   
+In all cases where translated notes are taken during a talk, we recommend creating short links such as bit.ly that can be shared at the beginning of the session to interested attendants, as well as with the conference back channel.
+Ideally, short links can be crafted following a recognizable pattern  
 
 
-**Automated Translation.** In the cases where papers have been shared in advance, utilizing online translation softwares is also a good way to prepare ourselves before attending a presentation. Though problematic in many ways, automated translation can help broaden audiences with minimum effort. If you are doing an automated translation of your work and would like to share it, let the session chair know so attendants can be informed.
+**Automated Translation.** In the cases where papers have been shared in advance, utilizing online translation software is also a good way to prepare ourselves before attending a presentation. Though problematic in many ways, automated translation can help broaden audiences with minimum effort. If you are doing an automated translation of your work and would like to share it, let the session chair know so attendants can be informed.
 
 - [Google Translate](https://translate.google.com/)
 - [Bing Translator](https://www.bing.com/translator/)
@@ -82,15 +81,18 @@ If you are interested in someone's work in a language you know, volunteer to hel
 ## Helping everyone understand your work better
 
 
-**Share in advance.** Where and when possible, long and short papers in any language should be shared in advance of the conference presentation. Even with little anticipation, this will help attendants whose reading skills of a language are stronger than their listening and speaking ones. Additionally, advance sharing is likely to increase exchanges and comments at the end of a presentation. This would need a little bit of coordination from the Program Committee or, more informally, with a particular session’s chair.
+**Share in advance.** Where and whenever possible, long and short papers in any language should be shared in advance of the conference presentation. Even with little anticipation, this will help attendants whose reading skills of a language are stronger than their listening and speaking ones. Additionally, advance sharing is likely to increase exchanges and comments at the end of a presentation. This would need a little bit of coordination from the Program Committee or, more informally, with a particular session’s chair.
 
 
 - **Create multilingual handouts and slides.** Presenters may opt to craft multilingual slides or handouts in different languages to aid attendants whose reading skills of a language are stronger than their listening ones.
 - **Multilingual posters.** Presenters are also encouraged to craft multilingual posters or handouts in various languages. This might also help highlight the worldwide uses and impact of their work.
 
+## What you can do as part of the audience
 
 **Don't leave the room!** We should strive to ensure that a particular language choice is not the reason why attendants lose interest in a given presenter’s work. There is surely someone who can help you follow the talk!
 Speakers may request aid translating questions and comments from the audience and whispering during their talks.
+
+We all understand that being around a language you don't understand can be unnerving. We see this as a feature, not a flaw. With a little patience we train ourselves to be patient and open to that strange other that you cannot assimilate, and if all goes well, we learn how to live and work with each other beyond the lingua franca.
 
 
 ##The crucial role of a session's chair
@@ -99,11 +101,8 @@ Since all of the practices outlined here require a bit of coordination and espec
 
 Chairs should encourage attendees to tweet and share notes in various languages at the beginning of their sessions.
 
+## For conference organizers
 
-## Other forms of Live translation
+**Live interpreting** is resource expensive and hard to implement for a varied audience like the one seen at Digital Humanities conferences. Nevertheless, on the side of our organizations, this might be a powerful arena to actively foster multilingualism. Acknowledging the fact that not all "costs" of multilingualism should fall on non-English speakers.
 
-
-**Live interpreting** is resource expensive and hard to implement for a varied audience like the one seen at DH conferences. Nevertheless, on the side of our organizations, this might be a powerful arena to actively foster multilingualism. Acknowledging the fact that not all "costs" of multilingualism should fall on non-English speakers. 
-
-
-**English as the target lingua franca** One possible way to do this is by inviting Keynotes Speakers whose first language isn't English to deliver their addresses in their language and live translating them into English. This will send a powerful message to other conference attendants wishing to present in languages other than English, as well as make them feel comfortable asking for help when having difficulties following a particular presentation. 
+One possible way to encourage multilingualism in your conference is by inviting Keynotes Speakers whose first language isn't English to deliver their addresses in their own language and live interpreting them into English. This will send a powerful message to other conference attendants wishing to present in languages other than English, as well as make them feel comfortable asking for help when having difficulties following a particular presentation.
