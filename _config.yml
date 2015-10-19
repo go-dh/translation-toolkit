@@ -2,19 +2,29 @@
 markdown: kramdown
 permalink: pretty
 
+
 # Dependencies
-highlighter: pygments
+markdown:         kramdown
+highlighter:         pygments
+
+# Permalinks
+permalink:        pretty
 
 # Setup
-title: "The Translation Toolkit"
+title:            "The Translation Toolkit"
 tagline:
-description: "a working group of GO::DH"
-host: 127.0.0.1
+description:      "a working group of GO::DH"
+host:    127.0.0.1
 url: ""
 baseurl: "/translation-toolkit"
 email:
-paginate: 5
+
+
+paginate:         5
 layout: blog-post
 
 # Custom vars
-version: 2.0.0
+version:          2.0.0
+
+#i18n
+languages: ["en", "es"]
