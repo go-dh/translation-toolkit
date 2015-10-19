@@ -7,3 +7,5 @@ global:
   description: "A working group of GO::DH"
 pages:
   about: about
+titles:
+  about: "About"
