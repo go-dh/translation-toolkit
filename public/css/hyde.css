@@ -62,7 +62,7 @@ html {
 }
 @media (min-width: 48rem) {
   .sidebar {
-    position: fixed; 
+    position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
@@ -250,7 +250,7 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* MIN-COMP ADDED CSS */ 
+/* MIN-COMP ADDED CSS */
 .italic {
 	font-style: italic;
 }
@@ -258,3 +258,12 @@ a.sidebar-nav-item:focus {
 .blurb {
 	margin-top: 16px;
 	}
+
+  /* Modifications by @elotroalex */
+  .languages > a {
+    color: #556E1D;
+  }
+
+  .sidebar-about h1 {
+      font-size: 1.5rem;
+  }

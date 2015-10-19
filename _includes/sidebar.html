@@ -7,11 +7,21 @@
       <p class="lead">{% t global.description %}</p>
     </div>
 
+    <p class="languages">{% if site.lang == "en" %}
+    {% capture link1 %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
+    <a href="{{ link1 }}" >{% t global.spanish %}</a>
+  {% else if site.lang == "es" %}
+    {% capture link2 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
+    <a href="{{ link2 }}" >{% t global.english %}</a>
+  {% endif %}</p>
+
 
     <ul class="sidebar-nav">
 <!--      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
         <a href="{{ site.baseurl }}/">Home</a>
         </li>  -->
+
+
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
