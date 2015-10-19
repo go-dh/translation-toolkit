@@ -3,5 +3,7 @@ global:
   spanish: Español
   tagline: Español
   about: Sobre
+  title: "Herramientas de Traducción"
+  description: "Un grupo de trabajo de GO::DH"
 pages:
   about: about

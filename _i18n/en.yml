@@ -3,5 +3,7 @@ global:
   spanish: Español
   tagline: English
   about: About
+  title: "The Translation Toolkit"
+  description: "A working group of GO::DH"
 pages:
   about: about
