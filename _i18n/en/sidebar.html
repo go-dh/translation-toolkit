@@ -7,41 +7,36 @@
       <p class="lead">{% t global.description %}</p>
     </div>
 
-    <p class="languages">{% if site.lang == "en" %}
-    {% capture link1 %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
-    <a href="{{ link1 }}" >{% t global.spanish %}</a>
-  {% else if site.lang == "es" %}
-    {% capture link2 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
-    <a href="{{ link2 }}" >{% t global.english %}</a>
-  {% endif %}</p>
+    <p class="languages">
+    {% capture link %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}
+    <a href="{{ link }}" >{% t global.spanish %}</a></p>
 
 
     <ul class="sidebar-nav">
-<!--      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
-        <a href="{{ site.baseurl }}/">Home</a>
-        </li>  -->
 
 
+  <!-- The list below is dynamically generated using "% t node.title %" instead of
+  "{ node.title}" -->
 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-            </li>
+          <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+            <a href="{{ site.baseurl }}{{ node.url }}">{% t node.title %}</a>
+          </li>
           {% endif %}
         {% endif %}
       {% endfor %}
 
+
+
+
+
     </ul>
 <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></p>
-<p><a href="https://github.com/go-dh/translation-toolkit">Contribute</a></p>
+<p><a href="https://github.com/go-dh/translation-toolkit">Contribuye</a></p>
 <!--    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
 
 </div>

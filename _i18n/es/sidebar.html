@@ -8,8 +8,8 @@
     </div>
 
     <p class="languages">
-    {% capture link2 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
-    <a href="{{ link2 }}" >{% t global.english %}</a></p>
+    {% capture link %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
+    <a href="{{ link }}" >{% t global.english %}</a></p>
 
 
     <ul class="sidebar-nav">
@@ -21,14 +21,16 @@
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
           <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
             <a href="{{ site.baseurl }}{{ node.url }}">{% t node.title %}</a>
           </li>
+          {% endif %}
         {% endif %}
-      {% endif %}
       {% endfor %}
+
+
 
 
 

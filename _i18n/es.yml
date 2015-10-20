@@ -3,10 +3,9 @@ global:
   spanish: Español
   tagline: Español
   about: about
-  404: "404"
   title: "Herramientas de Traducción"
   description: "Un grupo de trabajo de GO::DH"
 
-
 titles:
   about: "Sobre"
+  conferences: "Conferencias"

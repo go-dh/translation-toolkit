@@ -1,9 +1,3 @@
----
-layout: page
-title: Conferences
-permalink: /conferences/
----
-
 ## Translation for Conferences
 
 \[This year, we are pleased to join efforts with the [DH2016 Krakow](http://dh2016.adho.org/) Program Committee to foster multilingual practices and support translation efforts on site during the conference.]
