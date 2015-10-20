@@ -26,5 +26,8 @@ layout: blog-post
 # Custom vars
 version:          2.0.0
 
+# Organize pages
+include: ["_pages"]
+
 #i18n
 languages: ["en", "es"]

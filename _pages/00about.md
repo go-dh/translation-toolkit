@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: titles.about
 permalink: /about/
 ---
 {% translate_file about/about.md %}
