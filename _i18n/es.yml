@@ -5,6 +5,7 @@ global:
   about: about
   title: "Herramientas de Traducción"
   description: "Un proyecto de GO::DH"
+  contribute: "Contribuye"
 
 titles:
   about: "Sobre"
