@@ -15,6 +15,8 @@ De cualquier modo, se recomienda hacer el esfuerzo de dar a conocer la presencia
 
 La base para que la traducción de conferencias y prácticas multilingües resulte un éxito y tome raíz consiste de dos elementos: voluntarios y canales de comunicación claros y previamente acordados. En HD y muchos otros campos, hashtags de Twitter han sido canales increíblemente útiles de comunicación. Hasthags para el twiteo en vivo, ya se han establecido como parte de nuestra cultura académica. Por ende, parte del trabajo de traducción durante las conferencias ya está *en sintonía* con flujos de trabajo y prácticas ya ampliamente adoptadas.
 
+<!-- Hasta aquí llegue con la limpieza -->
+
 Con el fin de compartir información y coordinar los esfuerzos de la comunidad en la traducción sitio de una charla especial o sesión en Twitter, recomendamos acordar un hashtag secundaria se utiliza junto con la conferencia principal de ellas.
 
 [Hashtag conferencia principal] + [tr] + [sesión]
