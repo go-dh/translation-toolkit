@@ -21,14 +21,14 @@ Con el fin de compartir información y coordinar los esfuerzos de la comunidad e
 [Hashtag conferencia principal] + [tr] + [sesión]
 [Hashtag conferencia principal] + [[códigos ISO](http://www.loc.gov/standards/iso639-2/php/English_list.php) de las lenguas están traduciendo] + [número de sesión]
 
-Ejemplos (dan una solicitud para traducir del francés al Inglés en la sesión 314 de la Conferencia DH2015):
+Ejemplos (traducción del francés al Inglés en la sesión 314 de la Conferencia DH2015):
 
 - \#DH2015 #tr314
 - \#DH2015 #FrEn314
 
 Si los esfuerzos de traducción se llevan a cabo fuera del gorjeo, enlaces descriptivos también ayudarán a los voluntarios interesados ​​hacer un seguimiento de las actividades.
 
-Ejemplos (dan una solicitud para traducir del francés al Inglés en la sesión 314 de la Conferencia DH2015):
+Ejemplos (trducción del francés al Inglés en la sesión 314 de la Conferencia DH2015):
 
 - bit.ly/dh2015tr314
 - bit.ly/trFrEn314
@@ -46,17 +46,17 @@ Si sabe que su conversación está siendo susurró hay varias maneras en que ust
 La mayoría de estas prácticas también ayudará a aquellos con capacidad de escucha más débiles siguen su charla con mayor facilidad.
 
 
-**Whispering Conferencia Herramientas**
+**Conferencias**
 
 Una parte importante de hacer prácticas de traducción y multilingües un esfuerzo de la comunidad es la fácil disponibilidad de las herramientas utilizadas para apoyarlo. Con esto en mente, el siguiente es un conjunto de herramientas que la mayoría de Dhers son estar familiarizado con, tener requisitos técnicos mínimos, y son libremente y fácilmente disponible en línea corta pero versátil.
 
-**En vivo piar Whispering.** #### Twitter -un difusión importante, y tenga en cuenta la toma de herramienta que ya está siendo ampliamente utilizado en DH-puede ser fácilmente reutilizados para susurrar puntos más importantes de una presentación. En el pasado, Twitter también sirve como canal a través del cual se emitieron las solicitudes que susurran y ofertas.
+**Susurrando en vivo.** #### Twitter -un difusión importante, y tenga en cuenta la toma de herramienta que ya está siendo ampliamente utilizado en DH-puede ser fácilmente reutilizados para susurrar puntos más importantes de una presentación. En el pasado, Twitter también sirve como canal a través del cual se emitieron las solicitudes que susurran y ofertas.
 
 
-** Nota Tomando Whispering. ** Varios tomar notas softwares se pueden utilizar para susurrar notas traducidas durante una presentación.
+**Tomando notas.** Varios tomar notas softwares se pueden utilizar para susurrar notas traducidas durante una presentación.
 
-- [Evernote] (https://evernote.com/) y [Simplenote] (http://simplenote.com/). Estas herramientas de notas tomando apoyan compartiendo notas a través de enlaces públicos o para los contactos seleccionados. Esto podría ser una manera en la que un grupo particular de personas a crear notas traducidas más exhaustivas y compartirlos con los demás.
-- Wikis. Varios Dhers son conocidos por sus prácticas de tomar notas exhaustivas durante las conferencias, que comparten a través de wikis y sitios personales. Si usted es uno de ellos y está tomando notas traducidas, dejar que el presidente de la sesión sepa para que otros puedan seguir. Un útil, sencillo [Wiki on a Stick] (http://stickwiki.sourceforge.net/) es una aplicación de una sola página.
+- [Evernote](https://evernote.com/) y [Simplenote](http://simplenote.com/). Estas herramientas de notas tomando apoyan compartiendo notas a través de enlaces públicos o para los contactos seleccionados. Esto podría ser una manera en la que un grupo particular de personas a crear notas traducidas más exhaustivas y compartirlos con los demás.
+- Wikis. Varios Dhers son conocidos por sus prácticas de tomar notas exhaustivas durante las conferencias, que comparten a través de wikis y sitios personales. Si usted es uno de ellos y está tomando notas traducidas, dejar que el presidente de la sesión sepa para que otros puedan seguir. Un útil, sencillo [Wiki on a Stick](http://stickwiki.sourceforge.net/) es una aplicación de una sola página.
 - Google docs. El increíblemente versátil google docs no sólo es extremadamente fácil de compartir y empezar, también es especialmente bueno para la nota de colaboración teniendo donde en un solo documento varias murmuradores pueden agregar como la presentación avanza. Se anima a los altavoces para facilitar el llenado los vacíos.
 
 En todos los casos donde se toman notas traducidas durante una charla, se recomienda la creación de enlaces cortos como bit.ly que se puede compartir en el comienzo de la sesión a los asistentes interesados, así como con la conferencia canal trasero.
@@ -83,7 +83,7 @@ Si usted está interesado en el trabajo de alguien en un idioma que usted sabe, 
 
 ## Lo que puede hacer como parte de la audiencia
 
-**No deje la habitación!** Debemos esforzarnos para asegurar que una opción de idioma en particular no es la razón por la que los asistentes pierdan el interés en el trabajo de un presentador determinado. Hay seguramente alguien que puede ayudarle a seguir la charla!
+**No se valla la habitación!** Debemos esforzarnos para asegurar que una opción de idioma en particular no es la razón por la que los asistentes pierdan el interés en el trabajo de un presentador determinado. Hay seguramente alguien que puede ayudarle a seguir la charla!
 Los altavoces pueden solicitar la ayuda traduciendo las preguntas y comentarios de la audiencia y susurros durante sus conversaciones.
 
 Todos somos conscientes de que estar cerca de un idioma que no entiendo puede ser desconcertante. Vemos esto como una característica, no un defecto. Con un poco de paciencia nos entrenamos para ser paciente y abierto a esa extraña otra que no se puede asimilar, y si todo va bien, aprendemos cómo vivir y trabajar entre sí más allá de la lengua franca.

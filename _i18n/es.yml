@@ -1,11 +1,12 @@
 global:
-  english: English
+  english: "in English"
   spanish: Español
   tagline: Español
   about: about
   title: "Herramientas de Traducción"
-  description: "Un grupo de trabajo de GO::DH"
+  description: "Un proyecto de GO::DH"
 
 titles:
   about: "Sobre"
   conferences: "Conferencias"
+  people: "Equipo"

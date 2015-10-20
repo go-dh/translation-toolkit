@@ -1,6 +1,6 @@
 global:
   english: English
-  spanish: Español
+  spanish: "en Español"
   tagline: English
   about: about
   title: "The Translation Toolkit"
@@ -9,3 +9,4 @@ global:
 titles:
   about: "About"
   conferences: "Conferences"
+  people: "People"
