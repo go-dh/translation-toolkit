@@ -1,6 +1,6 @@
 ---
 layout: page
-title: titles.People
+title: titles.people
 permalink: /people/
 ---
 
