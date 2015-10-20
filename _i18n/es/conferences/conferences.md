@@ -1,20 +1,19 @@
 ## Traducción de Conferencias
 
-\[Este año, estamos encantados de unir esfuerzos con el [DH2016 Cracovia](http://dh2016.adho.org/) Comité de Programa para fomentar las prácticas multilingües y esfuerzos de traducción de soporte en sitio durante la conferencia.]
+\[Este año, unimos nuestros esfuerzos con el Comité Organizador de [DH2016 Cracovia](http://dh2016.adho.org/) para fomentar las prácticas multilingües y apoyar la traducción en vivo durante la conferencia.]
 
 
-Debido a los ejercicios que inspiraron este kit de herramientas, vamos a llamar a toda la comunidad conferencia de traducción *susurrando.*
+Debido a los ejercicios que inspiraron este juego de herramientas, llamamos a toda la traducción comunitaria de conferencias *susurros.*
 
-**Susurros**, la versión de la comunidad de traducción en vivo, puede tomar muchas formas de acuerdo a la circunstancia particular de una presentación y si se trata de la charla que se susurró a la audiencia, o son las preguntas y comentarios de la audiencia que están siendo susurrado al altavoz.
+**Susurros**, la versión de la comunidad de traducción en vivo, puede tomar muchas formas de acuerdo a la circunstancia particular de una presentación, si se trata de susurrar la charla a la audiencia, o si es susurrar las preguntas y comentarios de la audiencia al altavoz.
 
-Idealmente susurrando debe ser acordado y coordinado al comienzo de una sesión previamente, pero se puede hacer de manera espontánea si los asistentes desean vivir pío y compartir notas en un idioma diferente al que se utiliza en una presentación.
-En cualquier caso, es muy recomendable para hacer cualquier esfuerzo susurrantes conocidos para maximizar su impacto. La estrategia susurrando en particular (herramientas a utilizar, idiomas está traduciendo, las personas involucradas) deben, preferentemente, se acuerden y anunció al comienzo de la sesión o, al menos, justo antes de que comience la presentación. Una vez más, esto va a maximizar el impacto del ejercicio e invitar a una mayor participación.
+Idealmente el susurro debe ser acordado y coordinado previamente al comienzo de una sesión, pero se puede hacer de manera espontánea si los asistentes desean twitear y compartir notas en un idioma diferente al que se utiliza en una presentación.
+De cualquier modo, se recomienda hacer el esfuerzo de dar a conocer la presencia de susurrantes para maximizar su impacto. Preferiblemente se llegará a un acuerdo previo a la seción, de modo que se pueda anunciar justo antes que comience esta, sobre la estrategia de susurro que se vaya a utilizar (herramientas a utilizar, los idiomas, las personas involucradas). Una vez más, esto ayuda a maximizar el impacto del ejercicio y a estimular una mayor participación.
 
 
 **Hashtags y enlaces**
 
-
-Hay dos cosas que son la base para la traducción de conferencias y prácticas multilingües para ser impactante y tomar la raíz: los voluntarios y claros canales, previamente acordados de comunicación. En DH y muchos otros campos, hashtags de Twitter han sido canales increíblemente útiles de comunicación. Hasthags tweeting en vivo, y que establezcan que ya son parte de la cultura del campo. De esta manera, parte del trabajo de traducción durante las conferencias también ya está en sincronía * * con flujos de trabajo y prácticas ampliamente adoptados.
+La base para que la traducción de conferencias y prácticas multilingües resulte un éxito y tome raíz consiste de dos elementos: voluntarios y canales de comunicación claros y previamente acordados. En HD y muchos otros campos, hashtags de Twitter han sido canales increíblemente útiles de comunicación. Hasthags para el twiteo en vivo, ya se han establecido como parte de nuestra cultura académica. Por ende, parte del trabajo de traducción durante las conferencias ya está *en sintonía* con flujos de trabajo y prácticas ya ampliamente adoptadas.
 
 Con el fin de compartir información y coordinar los esfuerzos de la comunidad en la traducción sitio de una charla especial o sesión en Twitter, recomendamos acordar un hashtag secundaria se utiliza junto con la conferencia principal de ellas.
 
