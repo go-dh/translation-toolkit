@@ -21,10 +21,10 @@ All of the GO::DH working groups have followed the same dynamic, to open the wor
 The Translation Toolkit is first and foremost our attempt at drawing attention to the need to acknowledge the linguistic diversity that *already* exists in the field of DH.
 
 
-Second, it is the imperfect result of the lessons learned during our previous *ad hoc* practices at the INKE Meeting in Havana in 2013 and in DH2014 in Laussane. We are constant language learners.
+Similarly, it is the imperfect result of the lessons learned during our previous *ad hoc* practices at the INKE Meeting in Havana in 2013 and in DH2014 in Laussane. We are constant language learners.
 
 
-Third, it is a catalogue of ready available tools and suggested best practices (where *best* is synonymous to *it has worked for someone*) to approach the sometimes daunting task of translating and preparing multilingual resources whether at conferences, in editorial and authorial journal work, and website and resource developments. The selection follows the principle that there is no right or single approach to translation and multilingualism, and embraces the principle that each one might work at a particular time and circumstance.
+It is also a catalogue of ready available tools and suggested best practices (where *best* is synonymous to *it has worked for someone*) to approach the sometimes daunting task of translating and preparing multilingual resources whether at conferences, in editorial and authorial journal work, and website and resource developments. The selection follows the principle that there is no right or single approach to translation and multilingualism, and embraces the principle that each one might work at a particular time and circumstance.
 
 
-And fourth, it is an invitation to anyone who has ever put any given translation or multilingual approach in practice to share it with everyone here.
+And finally, it is an invitation to anyone who has ever put any given translation or multilingual approach in practice to share it with everyone here. The Translation Toolkit, furthermore, proposes that the labor of translation in DH cannot be delegated to a group, and especially not the linguistic minorities. Conversely, translation should be a labor shared by the whole community.

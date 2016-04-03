@@ -1,103 +1,103 @@
-## Traducción de Conferencias
-
-\[Este año, unimos nuestros esfuerzos con el Comité Organizador de [DH2016 Cracovia](http://dh2016.adho.org/) para fomentar las prácticas multilingües y apoyar la traducción en vivo durante la conferencia.]
+## Traducción para conferencias
 
 
-Debido a los ejercicios que inspiraron este juego de herramientas, llamamos a toda la traducción comunitaria de conferencias *susurros.*
+Ya que esta Caja de Herramientas fue inspirado por ejercicios previos, aquí nos referiremos como "murmullos" a cualquier estrategia de traducción comunitaria que se realice en conferencias. 
 
-**Susurros**, la versión de la comunidad de traducción en vivo, puede tomar muchas formas de acuerdo a la circunstancia particular de una presentación, si se trata de susurrar la charla a la audiencia, o si es susurrar las preguntas y comentarios de la audiencia al altavoz.
+**Murmurar,** la versión comunitaria de la interpretación en vivo, puede tomar muchas formas dependiendo de la situación particular de una presentación y si la charla se murmura al público o si son los comentarios y las preguntas lo que se murmuran al ponente.
 
-Idealmente el susurro debe ser acordado y coordinado previamente al comienzo de una sesión, pero se puede hacer de manera espontánea si los asistentes desean twitear y compartir notas en un idioma diferente al que se utiliza en una presentación.
-De cualquier modo, se recomienda hacer el esfuerzo de dar a conocer la presencia de susurrantes para maximizar su impacto. Preferiblemente se llegará a un acuerdo previo a la seción, de modo que se pueda anunciar justo antes que comience esta, sobre la estrategia de susurro que se vaya a utilizar (herramientas a utilizar, los idiomas, las personas involucradas). Una vez más, esto ayuda a maximizar el impacto del ejercicio y a estimular una mayor participación.
+Idealmente, los murmullos deben ser acordados y coordinados al inicio de una sesión, pero puede hacerse espontáneamente si los escuchas tuitean en vivo o comparten notas en una lengua distinta a la usada por el ponente.
+
+En cualquier caso, siempre se recomienda hacer públicos todos los murmullos para amplificar su impacto. Es también útil anunciar la estrategia particular de los murmullo (sus herramientas, las lenguas en las que se traduce, los participantes) con anticipación o bien al inicio de una sesión para maximizar el impacto del ejercicio e invitar una mayor participación.
 
 
-**Hashtags y enlaces**
+**Etiquetas y vínculos**
 
-La base para que la traducción de conferencias y prácticas multilingües resulte un éxito y tome raíz consiste de dos elementos: voluntarios y canales de comunicación claros y previamente acordados. En HD y muchos otros campos, hashtags de Twitter han sido canales increíblemente útiles de comunicación. Hasthags para el twiteo en vivo, ya se han establecido como parte de nuestra cultura académica. Por ende, parte del trabajo de traducción durante las conferencias ya está *en sintonía* con flujos de trabajo y prácticas ya ampliamente adoptadas.
 
-<!-- Hasta aquí llegue con la limpieza -->
+Existen dos bases para que la traducción y otras prácticas multilingües tengan impacto y se enraícen en las conferencias: voluntarios y canales de comunicación claros y coordinados previamente. En las HD, como en otros campos, las etiquetas en Twitter son canales de comunicación extremadamente útiles; de hecho, los tuits en vivo y el uso de etiquetas son ya parte de la cultura del campo. Utilizarlos para compartir traducciones comunitarias es una extensión de los flujos de trabajo y prácticas que ya están adoptados ampliamente.
 
-Con el fin de compartir información y coordinar los esfuerzos de la comunidad en la traducción sitio de una charla especial o sesión en Twitter, recomendamos acordar un hashtag secundaria se utiliza junto con la conferencia principal de ellas.
+Con el objeto de compartir información y coordinar esfuerzos de traducción comunitaria en situ, se pueden utilizar una etiqueta secundaria en Twitter además de la etiqueta general de la conferencia. Por ejemplo:
 
-[Hashtag conferencia principal] + [tr] + [sesión]
-[Hashtag conferencia principal] + [[códigos ISO](http://www.loc.gov/standards/iso639-2/php/English_list.php) de las lenguas están traduciendo] + [número de sesión]
+[etiqueta general de la conferencia] + [tr] + [número de sesión]
+[etiqueta general de la conferencia] + [[código ISO](http://www.loc.gov/standards/iso639-2/php/English_list.php) de las lenguas que se traducen] + [número de sesión]
 
-Ejemplos (traducción del francés al Inglés en la sesión 314 de la Conferencia DH2015):
+Ejemplos: (en el caso de una petición para traducir del francés al inglés en la sesión 314 de DH2016):
 
-- \#DH2015 #tr314
-- \#DH2015 #FrEn314
+- #DH2016 #tr314
+- #DH2016 #FrEn314
 
-Si los esfuerzos de traducción se llevan a cabo fuera del gorjeo, enlaces descriptivos también ayudarán a los voluntarios interesados ​​hacer un seguimiento de las actividades.
+Si los esfuerzos de traducción se realizan fuera de Twitter, vínculos descriptivos ayudarán a que los voluntarios y otros interesados estén al tanto de las actividades.
 
-Ejemplos (trducción del francés al Inglés en la sesión 314 de la Conferencia DH2015):
+Ejemplos (utilizando el mismo caso de arriba):
 
-- bit.ly/dh2015tr314
+- bit.ly/dh2016tr314
 - bit.ly/trFrEn314
 
 
-**Mi charla se susurró. ¿Cómo puedo ayudar?**
+**¿Qué puedes hacer si van a murmurar tu presentación?**
 
-Si sabe que su conversación está siendo susurró hay varias maneras en que usted puede ayudar murmuradores voluntarios.
+Si sabes que alguien va a murmurar tu presentación hay varias formas en las que puedes contribuir y ayudar a los voluntarios:
 
-- Recuerde que la traducción en vivo no es fácil
-- Hable despacio y claramente
-- Siempre que sea posible siglas evitar (que son realmente difíciles de traducir)
-- Si utiliza la jerga técnica oscura, tratar de aclarar que en el comienzo de su charla
+- Recuerda que la traducción simultánea no es sencilla,
+- Habla a buen paso y con claridad,
+- En la medida en la que te sea posible, evita el uso de acrónimos (son muy difíciles de traducir),
+- Si utilizas jerga técnica oscura, intenta aclararla al inicio de tu charla.
 
-La mayoría de estas prácticas también ayudará a aquellos con capacidad de escucha más débiles siguen su charla con mayor facilidad.
-
-
-**Conferencias**
-
-Una parte importante de hacer prácticas de traducción y multilingües un esfuerzo de la comunidad es la fácil disponibilidad de las herramientas utilizadas para apoyarlo. Con esto en mente, el siguiente es un conjunto de herramientas que la mayoría de Dhers son estar familiarizado con, tener requisitos técnicos mínimos, y son libremente y fácilmente disponible en línea corta pero versátil.
-
-**Susurrando en vivo.** #### Twitter -un difusión importante, y tenga en cuenta la toma de herramienta que ya está siendo ampliamente utilizado en DH-puede ser fácilmente reutilizados para susurrar puntos más importantes de una presentación. En el pasado, Twitter también sirve como canal a través del cual se emitieron las solicitudes que susurran y ofertas.
+Muchas de estas prácticas también ayudaran a los asistentes con un conocimiento parcial de tu lengua a comprender mejor tu presentación.
 
 
-**Tomando notas.** Varios tomar notas softwares se pueden utilizar para susurrar notas traducidas durante una presentación.
+**Herramientas para murmurar en conferencias**
 
-- [Evernote](https://evernote.com/) y [Simplenote](http://simplenote.com/). Estas herramientas de notas tomando apoyan compartiendo notas a través de enlaces públicos o para los contactos seleccionados. Esto podría ser una manera en la que un grupo particular de personas a crear notas traducidas más exhaustivas y compartirlos con los demás.
-- Wikis. Varios Dhers son conocidos por sus prácticas de tomar notas exhaustivas durante las conferencias, que comparten a través de wikis y sitios personales. Si usted es uno de ellos y está tomando notas traducidas, dejar que el presidente de la sesión sepa para que otros puedan seguir. Un útil, sencillo [Wiki on a Stick](http://stickwiki.sourceforge.net/) es una aplicación de una sola página.
-- Google docs. El increíblemente versátil google docs no sólo es extremadamente fácil de compartir y empezar, también es especialmente bueno para la nota de colaboración teniendo donde en un solo documento varias murmuradores pueden agregar como la presentación avanza. Se anima a los altavoces para facilitar el llenado los vacíos.
+Una parte importante de las prácticas de traducción y multilingüismo es la disponibilidad y el acceso de las herramientas para llevarla a cabo. Con esto en mente, a continuación ofrecemos una lista, corta pero versátil, de herramientas con las que muchos humanistas digitales ya estarán familiarizados, que tienen requerimientos técnicos mínimos, y están disponibles sin costo en línea.
 
-En todos los casos donde se toman notas traducidas durante una charla, se recomienda la creación de enlaces cortos como bit.ly que se puede compartir en el comienzo de la sesión a los asistentes interesados, así como con la conferencia canal trasero.
-Idealmente, enlaces cortos pueden hacer a mano siguiendo un patrón reconocible
+**Murmullos por Twitter.** Twitter—una herramienta importante de diseminación y anotación que ya se utiliza ampliamente en las HD-puede fácilmente reutilizarse para murmurar los puntos más sobresalientes de una presentación. Con anterioridad, Twitter también ha servido como plataforma para que los voluntarios anunciaran, organizaran y ofrecieran murmullar.
 
 
-**La traducción automatizada**. En los casos en que los documentos han sido compartidos con antelación, utilizando el software de traducción en línea es también una buena manera para prepararnos antes de asistir a una presentación. Aunque problemático en muchos sentidos, la traducción automática puede ayudar a ampliar las audiencias con el mínimo esfuerzo. Si usted está haciendo una traducción automática de tu trabajo y quieres compartirlo, dejar que el presidente de la sesión sabe lo asistentes pueden ser informados.
+**Murmullos por notas.** Varias aplicaciones para tomar notas se pueden utilizar para murmurar traducciones durante una presentación.
+
+- [Evernote](https://evernote.com/) y [Simplenote](http://simplenote.com/). Estas herramientas para tomar notas permiten compartirlas por medio de vínculos públicos o a contactos seleccionados. Grupos específicos pueden de esta forma compartir y crear notas más minuciosas y hacerlas públicas a otros.
+
+- Wikis. Varios humanistas digitales son conocidos por sus habilidades para tomar notas minuciosas durante conferencias y compartirlas en sus wikis y sitios personales. Si eres uno de ellos y tomas notas traducidas, déjaselo saber al presidente de la sesión para que otros puedan seguirte. Una herramienta útil y sencilla es [Wiki on a Stick](http://stickwiki.sourceforge.net/)-una aplicación de una sola página.
+
+- Google docs. La increíblemente versátil herramienta de Google es no solamente fácil de compartir, también es muy útil para tomar notas de forma colaborativa y varios voluntarios pueden añadir y editar conforme avanza una presentación. Los ponentes además pueden después ayudar a completarlas.
+
+En todos los casos donde se tomen notas traducidas durante una presentación, se recomienda crear vínculos cortes como bit.ly para compartirlos al inicio de la sesión a quienes estén interesados tanto en la conferencia como en el *back channel*.
+Idealmente, los vínculos cortos pueden crearse con un patrón reconocible como se recomendaba arriba.
+
+
+**Traducción automática.** Cuando una presentación se haya distribuido con anticipación, utilizar programas de traducción automática en línea es una buena forma de prepararnos antes de escuchar una presentación. Aunque siempre tiene sus problemas, la traducción automática puede servir a expandir audiencias con el mínimo esfuerzo. Si vas a hacer una traducción automática de tu trabajo y quisieras compartirla, déjaselo saber al presidente del panel para que los escuchas puedan referirse a ella.
 
 - [Google Translate](https://translate.google.com/)
 - [Bing Translator](https://www.bing.com/translator/)
-- [Worldlingo Online Traductor](http://www.worldlingo.com/en_us/products_services/worldlingo_translator.html)
+- [Worldlingo Online Translator](http://www.worldlingo.com/en_us/products_services/worldlingo_translator.html)
 
-Si usted está interesado en el trabajo de alguien en un idioma que usted sabe, voluntario para ayudar a limar la traducción automatizada. Si se trata de la traducción de su charla que necesita pulir, no dude en pedir ayuda.
-
-
-## Cómo ayudar a todos a entender mejor su trabajo
+Quienes estén interesados en el trabajo de colegas en idiomas que conocen, hazte voluntario para ayudar a corregir las erratas de la traducción automática. Si tu charla necesita una revisión, pide ayuda a la comunidad de humanistas digitales. Alguien podrá ayudar.
 
 
-**Compartir con antelación.** ¿Dónde y cuando sea posible, los documentos de largas y cortas en cualquier idioma se deben compartir con antelación a la presentación de la conferencia. Incluso con poca anticipación, esto ayudará a los asistentes cuyas habilidades de un idioma de lectura son más fuertes que la escucha y las habla. Además, el intercambio de avance es probable que aumenten los intercambios y comentarios al final de la presentación. Esto necesita un poco de la coordinación de la Comisión de Programa o, de manera más informal, con la silla de una sesión en particular.
+##Ayuda a otros a entender mejor tu trabajo
 
 
-**Crear folletos multilingües y diapositivas** Los presentadores pueden optar a las embarcaciones de diapositivas o documentos multilingües en diferentes idiomas para ayudar a los asistentes cuyas habilidades de un idioma de lectura son más fuertes que sus seres escucha..
--. ** Carteles multilingües ** También se anima a los presentadores para elaborar carteles o folletos multilingües en varios idiomas. Esto también podría ayudar a resaltar los usos y el impacto de su trabajo en todo el mundo.
-
-## Lo que puede hacer como parte de la audiencia
-
-**No se valla la habitación!** Debemos esforzarnos para asegurar que una opción de idioma en particular no es la razón por la que los asistentes pierdan el interés en el trabajo de un presentador determinado. Hay seguramente alguien que puede ayudarle a seguir la charla!
-Los altavoces pueden solicitar la ayuda traduciendo las preguntas y comentarios de la audiencia y susurros durante sus conversaciones.
-
-Todos somos conscientes de que estar cerca de un idioma que no entiendo puede ser desconcertante. Vemos esto como una característica, no un defecto. Con un poco de paciencia nos entrenamos para ser paciente y abierto a esa extraña otra que no se puede asimilar, y si todo va bien, aprendemos cómo vivir y trabajar entre sí más allá de la lengua franca.
+- **Comparte con anticipación.** Cuando y donde sea posible, es buena idea compartir las presentaciones en cualquier lengua antes de la presentación en la conferencia. Incluso con un poco de anticipación ayudará a los humanistas digitales que leen tu lengua aún cuando les cueste trabajo seguir la presentación oral. Además, compartir con anticipación tu trabajo puede aumentar y profundizar los intercambios y comentarios después de la presentación. Utilizando los canales de comunicación usuales, muchos podemos enterarnos de las presentaciones que ya están disponibles antes de la conferencia.
 
 
-## El papel crucial de la silla de una sesión
+- **Crea folletos y diapositivas multilingües.** Los ponentes pueden hacer el esfuerzo de crear diapositivas o folletos en varias lenguas para ayudar al público que lee bien su lengua aún cuando les cueste trabajo seguir la presentación oral.
 
-Puesto que todas las prácticas descritas aquí requieren un poco de coordinación y sobre todo el alojamiento, el papel de la silla es, más que nunca, que es crucial para asegurarse de que pueden llevarse a cabo con éxito. Con ese fin, las sillas deben facilitar susurrando en cualquier forma que podría tomar de una manera que es no obstaculizar las actuaciones. Cuando sea posible, las sillas deben tener fluidez en, o por lo menos un poco familiarizado con las lenguas de las presentaciones para que puedan intervenir en caso necesario.
+- **Diseña Posters Multilingües.** Los ponentes que presentan un póster pueden también diseñarlos con detalles en varios idiomas o bien con folletos en otros idiomas. Esta labor además puede ayudar a resaltar el impacto y la relevancia global de tu trabajo. 
 
-Las sillas deben animar a los asistentes a tweet y compartir notas en varios idiomas en el comienzo de sus sesiones.
+## ¿Qué puedes hacer si estás en el público?
 
-## Para los organizadores de conferencias
+**¡No te salgas!** Es importante que todos nos esforcemos para asegurar que la elección lingüística de un ponente no sea la razón de que los asistentes pierdan interés en su trabajo. Seguramente habrá alguien que te ayude a comprender mejor la charla. Los ponentes, asimismo, pueden pedir que se les traduzcan las preguntas y los comentarios del público o bien que se murmuren sus charlas.
 
-**Interpretación en vivo** está recurso caro y difícil de aplicar para una audiencia variada como la que se ve en las conferencias de Humanidades Digitales. Sin embargo, en el lado de nuestras organizaciones, esto podría ser un poderoso arena para fomentar activamente el multilingüismo. Reconociendo el hecho de que no todos los "costos" de multilingüismo deberían recaer sobre personas que no hablan inglés.
+Todos sabemos que estar en una charla en una lengua que no entendemos puede ser muy confuso. Pero esta sensación puede ser una ventaja y no una falla. Con un poco de esfuerzo podemos entrarnos a ser pacientes y abiertos a aquello que no podemos asimilar inmediatamente y si todo sale bien, aprenderemos a vivir y trabajar mejor con los otros más allá de una *lingua franca*.
 
-Una posible forma de fomentar el multilingüismo en su conferencia es invitando Altavoces Conferencias magistrales cuyo primer idioma no es el Inglés para entregar sus direcciones en su propio idioma y vivir su interpretación en Inglés. Esto enviará un poderoso mensaje a otros asistentes de la conferencia que deseen presentar en idiomas distintos del Inglés, así como hacer que se sientan cómodos pidiendo ayuda al tener dificultades para seguir una presentación particular.
+##El rol crucial del presidente del panel
+
+Ya que todos los ejercicios presentados aquí requieren de un nivel mínimo de coordinación y sobre todo de crear las oportunidad necesarias, el rol del presidente del panel es, más que nunca, crucial para asegurar que sean posibles y exitosas. Con ese fin, los presidentes de los paneles pueden facilitar cualquier tipo de murmullos sin que haya ningún detrimento para el desarrollo del panel. Cuando sea posible, los presidentes de los paneles deberían tener algún conocimiento de las lenguas en las que se den las presentaciones (o hablarlas de forma fluida) para poder intervenir si fuera necesario.
+
+Los presidentes de los paneles deben animar a los asistentes a compartir sus tuits y notas en otros idiomas al inicio de la sesión. 
+
+
+##Para los organizadores de conferencias
+
+**La interpretación simultánea** es muy costosa de varias maneras y difícil de implementar para un público tan diverso como el que, con frecuencia, nos encontramos en conferencias de humanidades digitales. No obstante, del lado de las organizaciones, costear la interpretación simultánea puede ser un escenario poderoso para fomentar el multilingüismo; una forma de reconocer que no todos los "costos" del multilingüismo pueden caer en los hablantes de otras lenguas además del inglés.
+
+Una forma de fomentar el multilingüismo en conferencias es invitar a plenaristas cuya primera lengua no es el inglés, animarlos a que den su charla en su primera lengua e implementar interpretación simultánea al inglés. Esta estrategia enviará un mensaje fuerte a otros asistentes de la conferencia que no deseen dar su presentación en inglés y los hará sentir más cómodos pidiendo ayuda cuando tengas dificultades con una charla dada.
