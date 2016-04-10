@@ -1,14 +1,25 @@
 ---
-layout: default 
+layout: default
+title: titles.home
 ---
 
 
     <div>
-      <h2>Welcome to The Translation Toolkit</h2>
+      <h2>{% t page.title %}</h2>
 
-<p>[In construction]</p>
+{% if site.lang == "en" %}
 
-<p>If you would like to contribute <a href="mailto:colibri.alex@gmail.com">send us a line</a>.</p>
+<p>The translation toolkit is a set of recommendations for translation practices to be used by researchers, librarians or cultural heritage workers. In our first iteration we offer some advice on translation for conferences. In the future we hope to offer some advice for translating software and articles.</p>
+
+<p>If you would like to contribute <a href="mailto:colibri.alex@gmail.com?subject=Translation Toolkit">send us a line</a>.</p>
+
+{% else if site.lang == "es" %}
+
+<p>La caja de herramientas de traducción es una serie de consejos prácticos para el trabajo de traducción acarreado por académicos, bibliotecarios y demás trabajadores del sector cultural. En esta primera versión de la caja nos enfocamos en la traducción durante conferencias. En el futuro esperamos agregar recomendaciones para la traducción de páginas web y artículos.</p>
+
+<p>Si desea contribuir envienos un mensaje <a href="mailto:colibri.alex@gmail.com?subject=Translation Toolkit">por correo electrónico</a>.</p>
+
+ {% endif %}
 
 
 

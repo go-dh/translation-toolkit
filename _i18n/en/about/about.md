@@ -1,6 +1,3 @@
-[Still in construction]
-
-
 ## Why a Translation Toolkit?
 
 The expansion and consolidation of the field of Digital Humanities (DH) has brought with it a previously unseen internationalization of inquiry interests, (academic) cultural specificities and practices, and, crucially, languages. This level of diversity has resulted in a sense of awareness of the truly global impact that the digital turn has had in the last few decades and has fostered exciting international collaborative ties. It has also awaken a sense of community in formation constantly being reshaped and in movement. Known and largely valued by its collaborative culture and commitment to openness, DH as a community now faces the task and challenge of bridging this growing diversity—an undertaking that promises great scholarly developments as well.

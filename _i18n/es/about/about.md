@@ -1,5 +1,3 @@
-[Seguimos construyendo el sitio]
-
 ##¿Por qué hacer una caja de herramientas para traducción?
 
 La expansión y consolidación del campo de las Humanidades Digitales (HD) ha traído consigo una internacionalización, inédita hasta ahora, de los intereses de investigación, las prácticas y las especificidades culturales (y académicas culturales). Este nivel de diversidad, además, ha resultado en una consciencia del impacto que el giro digital ha tenido a escala global en las últimas décadas dando lugar a lazos colaborativos alrededor del mundo. De la misma forma, este panorama ha despertado un sentido de comunidad en proceso constante de formación y movimiento. Conocida y valorada por su cultura colaborativa y compromiso a la apertura, la comunidad de humanistas digitales ahora se enfrenta a la tarea y el reto de crear espacios para esta creciente diversidad-una labor que también promete grandes desarrollos académicos.
