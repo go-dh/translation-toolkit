@@ -22,8 +22,8 @@ Con el objeto de compartir información y coordinar esfuerzos de traducción com
 
 Ejemplos: (en el caso de una petición para traducir del francés al inglés en la sesión 314 de DH2016):
 
-- #DH2016 #tr314
-- #DH2016 #FrEn314
+- \#DH2016 \#tr314
+- \#DH2016 \#FrEn314
 
 Si los esfuerzos de traducción se realizan fuera de Twitter, vínculos descriptivos ayudarán a que los voluntarios y otros interesados estén al tanto de las actividades.
 
