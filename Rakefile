@@ -1,4 +1,3 @@
-require "bundler/gem_tasks"
 
 # Rakefile provided by http://blog.sorryapp.com/blogging-with-jekyll/2014/01/31/using-jekyll-plugins-on-github-pages.html
 
