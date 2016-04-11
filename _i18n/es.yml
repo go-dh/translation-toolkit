@@ -4,11 +4,11 @@ global:
   tagline: Español
   about: about
   title: "Herramientas de Traducción"
-  description: "Un proyecto de GO::DH"
+  description: "Un grupo de trabajo de GO::DH"
   contribute: "Contribuye"
 
 titles:
-  about: "Sobre"
+  about: "Acerca de"
   conferences: "Conferencias"
   people: "Equipo"
-  home: "Bienvenidos a la Caja de Herramientas de Traducción"
+  home: "Bienvenidos a la Caja de Herramientas para Traducción"
