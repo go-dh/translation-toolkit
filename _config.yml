@@ -19,7 +19,6 @@ baseurl: "/translation-toolkit"
 email:
 
 
-paginate:         5
 layout: blog-post
 
 # Custom vars
