@@ -1,4 +1,4 @@
-[everyone is welcome to join the tem]
+[everyone is welcome to join the team]
 
 **[Alex Gil](http://www.elotroalex.com)** is Digital Scholarship Coordinator for Humanities and History at Columbia University. He maintains a robust online and analog research presence on Caribbean literature and digital humanities. In 2010-2012 he was a fellow at the Scholars' Lab and NINES at the University of Virginia. At Columbia he is one of the founders of the [Studio@Butler](https://studio.cul.columbia.edu/) and the Group for Experimental Methods in the Humanities ([xpmethods](http://xpmethod.plaintext.in/)), which focuses on minimal computing. He currently serves as co-chair of the Global Outlook::Digital Humanities ([GO::DH](http://www.globaloutlookdh.org/)) initiative and is actively engaged in several digital humanities projects at Columbia and around the world.
 
