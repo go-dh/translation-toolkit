@@ -1,5 +1,8 @@
 [everyone is welcome to join the team]
 
+**Gimena del Río** is a researcher at the [Seminario de Edicion y Crítica Textual](http://www.iibicrit-conicet.gov.ar/) of the National Scientific and Technical Research Council in Buenos Aires, Argentina. She teaches Romance Philology and Digital Humanities at the University of Buenos Aires and [LINHD-UNED (Madrid)](http://linhd.uned.es/). Her main academic interests deal with the scholarly edition and study of Medieval lyrical poetry and the development, use and methodologies of scholarly digital tools. Gimena also coordinates the projects Medieval Dialogue and [Methodologies of Digital Tools applied to Social Sciences and Humanities](http://www.caicyt-conicet.gov.ar/metodologias-en-herramientas-digitales-para-la-investigacion-mhedi/), and collaborates in [Repertorio Digital de la Métrica Medieval Castellana](http://www.remetca.uned.es/) and [Bibliography of Spanish Women Writers](http://www.bieses.net/), among others. She is currently the vicepresident of the [Argentinian Association of Digital Humanities](http://aahd.com.ar/).
+
+
 **[Alex Gil](http://www.elotroalex.com)** is Digital Scholarship Coordinator for Humanities and History at Columbia University. He maintains a robust online and analog research presence on Caribbean literature and digital humanities. In 2010-2012 he was a fellow at the Scholars' Lab and NINES at the University of Virginia. At Columbia he is one of the founders of the [Studio@Butler](https://studio.cul.columbia.edu/) and the Group for Experimental Methods in the Humanities ([xpmethods](http://xpmethod.plaintext.in/)), which focuses on minimal computing. He currently serves as co-chair of the Global Outlook::Digital Humanities ([GO::DH](http://www.globaloutlookdh.org/)) initiative and is actively engaged in several digital humanities projects at Columbia and around the world.
 
 
@@ -7,3 +10,6 @@
 
 
 **[Élika Ortega](http://www.elikaortega.net)** is a Postdoctoral Researcher at the [Institute for Digital Research in the Humanities](http://www.idrh.ku.edu) at the University of Kansas. She writes about digital literature, (not necessarily digital) media, intermediality, materiality, reading practices and interfaces, books, networks, digital humanities, and multilingualism in academia. She also likes to bind books. Élika currently serves in the executive committee of GO::DH, the ACH executive council, and ADHO's standing committee for Multi-Lingualism and Multi-Culturalism.
+
+
+The Translation Toolkit is a community project that has been enriched by conversations over mailing lists, in person, social media, and anywhere that productive ideas are exchanged.
