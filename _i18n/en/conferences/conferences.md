@@ -27,6 +27,11 @@ Examples (given a request to translate from French to English at session 314 of 
 - \#DH2016 #fr-en-314
 - \#DH2016 #fra-eng-314
 
+For channels which don't support the notion of secondary hashtags, concatenate the tags:
+
+- \#DH2016-tr314
+- \#DH2016-fra-eng-314
+
 If translation efforts are taking place outside of twitter, descriptive links will also help interested volunteers keep track of the activities.
 
 Examples (given a request to translate from French to English at session 314 of the DH2016 Conference):
