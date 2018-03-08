@@ -24,14 +24,15 @@ In order to share information and coordinate efforts of on site community transl
 Examples (given a request to translate from French to English at session 314 of the DH2016 Conference):
 
 - \#DH2016 #tr314
-- \#DH2016 #FrEn314
+- \#DH2016 #fr-en-314
+- \#DH2016 #fra-eng-314
 
 If translation efforts are taking place outside of twitter, descriptive links will also help interested volunteers keep track of the activities.
 
 Examples (given a request to translate from French to English at session 314 of the DH2016 Conference):
 
 - bit.ly/dh2016tr314
-- bit.ly/trFrEn314
+- bit.ly/tr-fr-en-314
 
 
 **Conference Whispering Tools**
