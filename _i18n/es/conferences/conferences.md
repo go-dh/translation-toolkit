@@ -27,6 +27,11 @@ Ejemplos: (en el caso de una petición para traducir del francés al inglés en 
 - \#DH2016 \#fr-en-314
 - \#DH2016 \#fra-eng-314
 
+Para los canales que no apoyan las subetiquetas, encadenan las etiquetas:
+
+- \#DH2016-tr314
+- \#DH2016-fr-en-314
+
 Si los esfuerzos de traducción se realizan fuera de Twitter, vínculos descriptivos ayudarán a que los voluntarios y otros interesados estén al tanto de las actividades.
 
 Ejemplos (utilizando el mismo caso de arriba):
