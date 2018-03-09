@@ -7,7 +7,7 @@ Due to the exercises that inspired this Toolkit, we will call all conference com
 
 Ideally whispering should be previously agreed and coordinated at the beginning of a session but it can be done spontaneously if attendants wish to live tweet and share notes in a language different to the one used in a presentation.
 
-In any case, we strongly recommend to make any whispering efforts known to maximize its impact. The particular whispering strategy (tools to be used, languages being translated, volunteers) should, preferably, be agreed upon and announced at the beginning of a session or, at least, right before the presentation begins. Again, this will maximize the impact of the exercise and invite further participation.
+In any case, we strongly recommend to make any whispering efforts known to maximize their impact. The particular whispering strategy (tools to be used, languages being translated, volunteers) should, preferably, be agreed upon and announced at the beginning of a session or, at least, right before the presentation begins. Again, this will maximize the impact of the exercise and invite further participation.
 
 
 **Hashtags and Links**
@@ -44,12 +44,14 @@ An important part of making translation and multilingual practices a community e
 
 **Note Taking Whispering.** Several note taking softwares can be used to whisper translated notes during a presentation.
 
-- [Evernote](https://evernote.com/) and [Simplenote](http://simplenote.com/). These note taking tools support sharing notes through public links or to selected contacts. This might be a way in which a particular group of people create more thorough translated notes and share them to others.
+- [Evernote](https://evernote.com/), [Simplenote](http://simplenote.com/), and [PiratePad](http://piratepad.net/front-page/). These note taking tools support sharing notes through public links or to selected contacts. This might be a way in which a particular group of people create more thorough translated notes and share them to others.
 - Wikis. Several DHers are known for their thorough note taking practices during conferences, which they share through wikis and personal sites. If you are one of them and are taking translated notes, let the session chair know so that others can follow you. A useful, simple one [Wiki on a Stick](http://stickwiki.sourceforge.net/) is a single page application.
-- Google docs. The incredibly versatile google docs is not only extremely easy to share and get started, it is also especially good for collaborative note taking where in one single document several whisperers can add as the presentation progresses. Speakers are encouraged to facilitate filling in the gaps. 
+- Google docs. The incredibly versatile google docs is not only extremely easy to share and get started, it is also especially good for collaborative note taking where in one single document several whisperers can add as the presentation progresses. Speakers are encouraged to facilitate filling in the gaps.
+- IRC.  This venerable technology has the advantage of very wide availability and very low bandwidth.  Any public IRC server can be used, for example [freenode.net](http://freenode.net).  Join an existing channel (or make a new one) using the IRC command `/join` plus the channel name, for example `/join #DH2016-tr-314`.  Those with no installed IRC client can use an IRC/Web gateway like [webchat.freenode.net](http://webchat.freenode.net/).  IRC allows several whisperers to work together; it does not, however, allow editing.
 
 In all cases where translated notes are taken during a talk, we recommend creating short links such as bit.ly that can be shared at the beginning of the session to interested attendants, as well as with the conference back channel.
-Ideally, short links can be crafted following a recognizable pattern  
+Ideally, short links can be crafted following a recognizable pattern.
+If you understand the language of the talk but are not in a position to take notes in another language, you can still help by taking whispered notes in the language of the talk.  Such notes can help listeners whose reading skills in that language are stronger than their listening skills.
 
 
 **Automated Translation.** In the cases where papers have been shared in advance, utilizing online translation software is also a good way to prepare ourselves before attending a presentation. Though problematic in many ways, automated translation can help broaden audiences with minimum effort. If you are doing an automated translation of your work and would like to share it, let the session chair know so attendants can be informed.

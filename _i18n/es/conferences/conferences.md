@@ -42,15 +42,19 @@ Una parte importante de las prácticas de traducción y multilingüismo es la di
 
 **Murmullos por notas.** Varias aplicaciones para tomar notas se pueden utilizar para murmurar traducciones durante una presentación.
 
-- [Evernote](https://evernote.com/) y [Simplenote](http://simplenote.com/). Estas herramientas para tomar notas permiten compartirlas por medio de vínculos públicos o a contactos seleccionados. Con esta estrategia, grupos específicos pueden compartir y crear notas más minuciosas y hacerlas públicas a otros.
+- [Evernote](https://evernote.com/), [Simplenote](http://simplenote.com/), y [PiratePad](http://piratepad.net/front-page/). Estas herramientas para tomar notas permiten compartirlas por medio de vínculos públicos o a contactos seleccionados. Con esta estrategia, grupos específicos pueden compartir y crear notas más minuciosas y hacerlas públicas a otros.
 
 - Wikis. Varios humanistas digitales son conocidos por sus habilidades para tomar notas minuciosas durante conferencias y compartirlas en sus wikis y sitios personales. Si eres uno de ellos y tomas notas traducidas, déjaselo saber al presidente de la sesión para que otros puedan seguirte. Una herramienta útil y sencilla es [Wiki on a Stick](http://stickwiki.sourceforge.net/)—una aplicación de una sola página.
 
 - Google docs. La increíblemente versátil herramienta de Google es, además de fácil de compartir, muy útil para tomar notas de forma colaborativa y varios voluntarios pueden añadir y editar conforme avanza una presentación. Los ponentes además pueden después ayudar a completarlas.
 
+- IRC.  Esta tecnología venerable tiene la ventaja de muy amplia disponibilidad y requiere una amplitud de banda muy baja.  Hay muchos servidores públicos, por ejemplo [freenode.net](http://freenode.net).  Para juntarse a un canal se emplea el mando `/join` + nombre, por ejemplo `/join #DH2016-tr-314`.  Los oyentes sin cliente instalado IRC pueden usar una entrada IRC/WEB como [webchat.freenode.net](http://webchat.freenode.net/).  IRC permite a varios voluntarios trabajar juntos; esto, sin embargo, no permite a editar las notas.
+
 En todos los casos donde se tomen notas traducidas durante una presentación, se recomienda crear vínculos cortes como bit.ly para compartirlos al inicio de la sesión a quienes estén interesados tanto en la conferencia como en el *back channel*.
 
 Idealmente, los vínculos cortos pueden crearse con un patrón reconocible como se recomendaba arriba.
+
+Si entiendes la lengua de la presentación, pero no tienes la facilidad de tomar apuntes en otra lengua, todavía puedes ayudar por tomando murmullos en la misma lengua de la presentación. Tales apuntes pueden ayudar a los oyentes que leen con más facilidad que siguen la presentación oral.
 
 
 **Traducción automática.** En los casos en que una presentación se haya distribuido con anticipación, utilizar programas de traducción automática en línea es una buena forma de prepararnos antes de escuchar una presentación. Aunque siempre tiene sus problemas, la traducción automática puede servir a expandir audiencias con el mínimo esfuerzo. Si vas a hacer una traducción automática de tu trabajo y quisieras compartirla, déjaselo saber al presidente del panel para que los escuchas puedan referirse a ella.
