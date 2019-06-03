@@ -62,11 +62,14 @@ If you understand the language of the talk but are not in a position to take not
 
 **Automated Translation.** In the cases where papers have been shared in advance, utilizing online translation software is also a good way to prepare ourselves before attending a presentation. Though problematic in many ways, automated translation can help broaden audiences with minimum effort. If you are doing an automated translation of your work and would like to share it, let the session chair know so attendants can be informed.
 
-- [Google Translate](https://translate.google.com/)
+- [Google Translate](https://translate.google.com/)*
 - [Bing Translator](https://www.bing.com/translator/)
 - [Worldlingo Online Translator](http://www.worldlingo.com/en_us/products_services/worldlingo_translator.html)
 
 If you are interested in someone's work in a language you know, volunteer to help out ironing out the automated translation. If it's your talk's translation that needs polishing, don’t hesitate to ask for help.
+
+\* Google Drive presentations can be automatically translated using this [add-on's code](https://developers.google.com/gsuite/add-ons/editors/slides/quickstart/translate). Slides can be translated into/from nine different languages (Arabic, Chinese, English, French, German, Hindi, Japanese, Portuguese, Spanish). Similarly Google Docs with a transcription of any given presenatation can be automatically translated (Tools > Translate document)
+
 
 
 ## Helping everyone understand your work better

@@ -65,12 +65,13 @@ Si entiendes la lengua de la presentación, pero no tienes la facilidad de tomar
 
 **Traducción automática.** En los casos en que una presentación se haya distribuido con anticipación, utilizar programas de traducción automática en línea es una buena forma de prepararnos antes de escuchar una presentación. Aunque siempre tiene sus problemas, la traducción automática puede servir a expandir audiencias con el mínimo esfuerzo. Si vas a hacer una traducción automática de tu trabajo y quisieras compartirla, déjaselo saber al presidente del panel para que los escuchas puedan referirse a ella.
 
-- [Google Translate](https://translate.google.com/)
+- [Google Translate](https://translate.google.com/)*
 - [Bing Translator](https://www.bing.com/translator/)
 - [Worldlingo Online Translator](http://www.worldlingo.com/en_us/products_services/worldlingo_translator.html)
 
 Si estás interesado en el trabajo de colegas en idiomas que conoces, hazte voluntario para ayudar a corregir las erratas de la traducción automática. Si tu charla necesita una revisión, pide ayuda a la comunidad de humanistas digitales. Seguramente, alguien podrá ayudar.
 
+* Las presentaciones de Google Drive se pueden traducir automáticamente usando el código de [este complemento](https://developers.google.com/gsuite/add-ons/editors/slides/quickstart/translate). Con éste, las diapositivas se pueden traducir a/desde nueve idiomas diferentes (árabe, chino, inglés, francés, alemán, hindi, japonés, portugués, español). De manera similar, las transcripción de cualquier presentación en Google Docs pueden traducirse automáticamente yendo a Herramientas y seleccionando la opción pre-instalada de "Traducir documento".
 
 ##Ayuda a otros a entender mejor tu trabajo
 
